@@ -1,0 +1,72 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: Century Gothic;
+	font-weight: 550;
+}
+
+body{
+	background-image: url("https://fsa.zobj.net/crop.php?r=nO2k2MV-EhVeCM3eM9903omlai6sAZ3SnEeUTmyzW3LrQ07k1fFH-vpVfN3L3okuT_kSz8FoLRKWF2NWWjMw57V8X9G5HY2x1ow2GJPVsDgiFQQ3jl9FlUuNWr9PZyGDRQPKpTtCaEd8tcdJ");
+	height: 100vh;
+	background-size: cover;
+	background-position: center;
+}
+
+h4{
+	font-size: large;}
+
+h1{
+	font: 500 150px/1.3 "Arizonia", Helvetica, sans-serif;
+	color: white;
+	text-shadow: 4px 4px 0px rgba(0,0,0,0.1);
+}
+
+
+.clear{
+	clear: both;
+}
+
+#Main{
+background-color: transparent;
+	width: 1250px;
+	height: 720px;
+	margin: auto;
+	padding: 20px;
+	clear: both;
+	border-style: solid; 
+	color: white;
+}
+
+
+#Header{} 
+
+#Content{
+	clear: both;
+}
+
+#Myinfo{
+	background-color: transparent;
+	height: 150px;
+	width: 1220px;
+	border-style: solid;
+	border-width: thick;
+	padding: 10px;
+	float: left;
+	margin-bottom: 5px;
+	color: white;
+}
+
+#FavCMSC{
+	background-color: transparent;
+	height: 500px;
+	width: 1220px;
+	border-style: solid;
+	border-width: thick;
+	padding: 10px;
+	float: left;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	color: white;
+
+}
+
